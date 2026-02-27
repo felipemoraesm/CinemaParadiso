@@ -2,7 +2,7 @@ Desenvolvido como projeto final da disciplina de Banco de Dados II, do semestre 
 
 # CinemaParadiso | Gestão Cinematográfica com Java Web
 
-Este projeto é uma aplicação robusta de gestão para cinemas, desenvolvida para automatizar o controle de funcionários, sessões e vendas de ingressos. A ferramenta utiliza tecnologias consolidadas do mercado para garantir alta performance e integridade de dados.
+Este projeto é uma aplicação de gestão para cinemas, desenvolvida para automatizar o controle de funcionários, sessões e vendas de ingressos. A ferramenta utiliza tecnologias consolidadas para garantir alta performance e integridade de dados.
 
 ## Tecnologias Aplicadas
 - **Java 11 & Jakarta EE 10**: Utilização das especificações modernas do ecossistema Java para web.
